@@ -1,3 +1,5 @@
+## Claude Codeの活用パターンなど
+
 ### Claude Code Desktopのアップデート
 
 Xで共有されていたClaude Code Desktopの新機能について議論した。
